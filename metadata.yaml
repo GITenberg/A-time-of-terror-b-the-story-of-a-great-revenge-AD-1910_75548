@@ -1,5 +1,8 @@
 _repo: A-time-of-terror-b-the-story-of-a-great-revenge-AD-1910_75548
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 75548-h/images/cover.jpg
 creator:
   author:
     agent_name: Ford, Douglas Morey
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/50853
     wikipedia: https://en.wikipedia.org/wiki/Douglas_Morey_Ford
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75548#A-time-of-terror-b-the-story-of-a-great-revenge-AD-1910
 edition_note: Second edition
 gutenberg_issued: '2025-03-07'
 gutenberg_type: Text
